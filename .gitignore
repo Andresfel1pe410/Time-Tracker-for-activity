@@ -1,0 +1,19 @@
+# Entornos virtuales
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Base de datos
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
